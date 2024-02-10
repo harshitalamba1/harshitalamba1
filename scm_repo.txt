@@ -1,0 +1,3 @@
+hello! everyone , What Is a Repository?
+Repositories offer remote access to code modules as well as software packages to promote collaborative use. Here’s how they work and how to create your own.
+A repository is a place where you can store shared code with friends, co-workers, classmates and even complete strangers. As a result, repositories help individuals and teams write better code faster.
